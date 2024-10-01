@@ -1,22 +1,18 @@
-![image](https://github.com/user-attachments/assets/49412acf-f995-4291-b1ef-876e31b4adf7)## Hi there 👋
-
-<!--
-**lucasraulinosilva/lucasraulinosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div center>
-<a href="https://github.com/lucasraulinosilva">
+<h1 align="center">Hello 👋, I'm Lucas Raulino Silva</h1>
+<br>
+<p>I currently live in São Paulo and dedicate myself to studying Back-end Development with Java.</p>
+<p>My knowledge involves:</p>
+<ul>
+  <li>Programming Languages: Python, PHP, Java, Javascript</li>
+  <li>Data Science and Machine Learning: Pandas, Matplotlib, Numpy, Jupyter Notebook</li>
+  <li>Cloud: Firebase, Azure</li>
+  <li>Databases: MySQL, Microsoft SQL Server</li>
+  <li>Frameworks: Spring, Bootstrap, Jquery</li>
+</ul>
+<p>Contact: <a href="mailto:lraulino26@gmail.com">lraulino26@gmail.com</a></p>
+<br>
+<div align="center">
+<a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasraulinosilva&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasraulinosilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
