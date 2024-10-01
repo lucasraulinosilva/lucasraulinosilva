@@ -1,4 +1,4 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/49412acf-f995-4291-b1ef-876e31b4adf7)## Hi there 👋
 
 <!--
 **lucasraulinosilva/lucasraulinosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
+<div center>
 <a href="https://github.com/lucasraulinosilva">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasraulinosilva&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasraulinosilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
