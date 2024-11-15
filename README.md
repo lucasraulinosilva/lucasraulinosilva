@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Lucas Raulino Silva</h1>
 <br>
-<p>I currently live in São Paulo and dedicate myself to studying Back-end Development with Java.</p>
+<p>I currently live in São Paulo and dedicate myself to studying Back-end Development with a focus on Java, passionate about building robust server-side applications.</p>
 <p>My knowledge involves:</p>
 <ul>
   <li>Programming Languages: Python, PHP, Java, Javascript</li>
